@@ -7,9 +7,10 @@
 * [Objectives](#objectives)
 * [Dataset Analysis](#dataset-analysis)
 * [Approach](#approach)
+* [Conclusion](#Conclusion)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements and References](#acknowledgements)
-* [Contact](#team)
+* [Contact](#Contact)
 
 ## Problem Statement
 
