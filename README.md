@@ -8,8 +8,8 @@
 * [Dataset Analysis](#dataset-analysis)
 * [Approach](#approach)
 * [Technologies Used](#technologies-used)
-* [Acknowledgements](#acknowledgements)
-* [Team](#team)
+* [Acknowledgements and References](#acknowledgements)
+* [Contact](#team)
 
 ## Problem Statement
 
